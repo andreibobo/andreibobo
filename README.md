@@ -27,7 +27,7 @@ I believe in the importance of sharing knowledge. I stay up-to-date with the lat
 
 ### 🌐 **Let’s Connect!**
 - 🔗 [LinkedIn: Andrei Eduard Bolboasa](https://www.linkedin.com/in/andrei-bolboasa/)
-- 🐦 [Twitter: @AndreiBolboasa]([#](https://x.com/AndreiBolboasa)
+- 🐦 [Twitter: @AndreiBolboasa](https://x.com/AndreiBolboasa)
 - 📧 **Email**: bolboasaandrei@gmail.com
 
 <!--
