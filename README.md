@@ -27,7 +27,8 @@ I believe in the importance of sharing knowledge. I stay up-to-date with the lat
 
 ### 🌐 **Let’s Connect!**
 - 🔗 [LinkedIn: Andrei Eduard Bolboasa](https://www.linkedin.com/in/andrei-bolboasa/)
-- 🐦 [Twitter: @AndreiB_Dev](#) *(Optional)*
+- 🐦 [Twitter: @AndreiBolboasa]([#](https://x.com/AndreiBolboasa)
+- 📧 **Email**: bolboasaandrei@gmail.com
 
 <!--
 **andreibobo/andreibobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
